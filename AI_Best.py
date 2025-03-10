@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) 2025 [Your Name or Organization]
+# Copyright (C) 2025 Gulas Adrian
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
